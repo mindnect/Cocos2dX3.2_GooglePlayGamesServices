@@ -8,9 +8,9 @@ cpinan/Cocos2dX_GooglePlayGamesServices
 https://github.com/cpinan/Cocos2dX_GooglePlayGamesServices
 
 1. import project:
-- google-play-service_lib
-- googletest\cocos2d\cocos\platform\android\java
-- googletest\proj.android
+ "google-play-service_lib"
+ "googletest\cocos2d\cocos\platform\android\java"
+ "googletest\proj.android"
 
 2. run "build_native.py"
 
